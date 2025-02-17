@@ -11,11 +11,7 @@ It is easy to use, controlled entirely with text commands.
 2. Download the file
 3. Try double-clicking the file. In some cases, this is all that's required to launch the program.
 
-   If the program doesn't launch, follow these steps:
-   * Open a terminal.
-   * Navigate to the folder where `carbon.jar` is located.
-   * Run the following command and the application should launch:\
-     ```java -jar carbon.jar```
+
 
 ## Command summary
 
